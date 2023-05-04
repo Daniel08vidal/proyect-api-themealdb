@@ -34,7 +34,7 @@ const Main = ({ handleContador }) => {
           </div>
         </div>
         <div className="presentacion--imagen">
-          <img src="src/assets/design3.png" alt="Imagen presentacion" />
+          <img src="design3.png" alt="Imagen presentacion" />
         </div>
       </aside>
 
